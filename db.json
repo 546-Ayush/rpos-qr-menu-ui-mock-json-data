@@ -1,17 +1,19 @@
- "offers": [
-    {
-      "coupon_description": "hello",
-      "coupon_code": "hi offer"
-    }
-  ],
-  "top_picks": [
-    {
-      "id": 147,
-      "foodType": "veg",
-      "itemName": "Dosa",
-      "originalPrice": 50,
-      "currentPrice": 50,
-      "description": "Dosa",
-      "image_url": "https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693303864Dosa.jpg"
-    }
-  ],
+{
+   "offers":[
+      {
+         "coupon_description":"hello",
+         "coupon_code":"hi offer"
+      }
+   ],
+   "top_picks":[
+      {
+         "id":147,
+         "foodType":"veg",
+         "itemName":"Dosa",
+         "originalPrice":50,
+         "currentPrice":50,
+         "description":"Dosa",
+         "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693303864Dosa.jpg"
+      }
+   ]
+}
