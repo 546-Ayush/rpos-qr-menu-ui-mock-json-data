@@ -1,72 +1,69 @@
-
 {
-    "data":{
-       "is_active":true,
-       "restaurant_data":{
-          "info":{
-             "id":243,
-             "logo":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/restaurant-images/17017596461 rose.jpeg",
-             "avg_serving_time":"15",
-             "is_live_order_enabled": false,
-             "is_dine_in":false,
-             "is_take_away":true,
-             "header_description":"Default Header",
-             "restaurant_name":"Jagannath Veg Restaurant"
-          },
-          "offers":[
-             {
-                "coupon_description":"hello",
-                "coupon_code":"hi offer"
-             }
-          ],
-          "top_picks":[
-             {
-                "id":147,
-                "food_type":"veg",
-                "item_name":"Dosa",
-                "original_price":50,
-                "current_price":50,
-                "description":"Dosa",
-                "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693303864Dosa.jpg"
-             }
-          ],
-          "category":[
-             "Oilly Food",
-             "None Veg",
-             "test",
-             "Test 2"
-          ],
-          "menu_items":[
-             {
-                "id":152,
-                "food_type":"veg",
-                "item_name":"Vada",
-                "original_price":200,
-                "current_price":190,
-                "description":"Vada",
-                "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693304942Vada.jpg.webp"
-             },
-             {
-                "id":152,
-                "food_type":"veg",
-                "item_name":"Vada",
-                "original_price":200,
-                "current_price":190,
-                "description":"Vada",
-                "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693304942Vada.jpg.webp"
-             },
-             {
-                "id":152,
-                "food_type":"veg",
-                "item_name":"Vada",
-                "original_price":200,
-                "current_price":190,
-                "description":"Vada",
-                "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693304942Vada.jpg.webp"
-             },
-            
-          ]
-       }
-    }
- }
- 
+   "data":{
+      "is_active":true,
+      "restaurant_data":{
+         "info":{
+            "id":243,
+            "logo":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/restaurant-images/17017596461 rose.jpeg",
+            "avg_serving_time":"15",
+            "is_live_order_enabled":false,
+            "is_dine_in":false,
+            "is_take_away":true,
+            "header_description":"Default Header",
+            "restaurant_name":"Jagannath Veg Restaurant"
+         },
+         "offers":[
+            {
+               "coupon_description":"hello",
+               "coupon_code":"hi offer"
+            }
+         ],
+         "top_picks":[
+            {
+               "id":147,
+               "food_type":"veg",
+               "item_name":"Dosa",
+               "original_price":50,
+               "current_price":50,
+               "description":"Dosa",
+               "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693303864Dosa.jpg"
+            }
+         ],
+         "category":[
+            "Oilly Food",
+            "None Veg",
+            "test",
+            "Test 2"
+         ],
+         "menu_items":[
+            {
+               "id":152,
+               "food_type":"veg",
+               "item_name":"Vada",
+               "original_price":200,
+               "current_price":190,
+               "description":"Vada",
+               "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693304942Vada.jpg.webp"
+            },
+            {
+               "id":152,
+               "food_type":"veg",
+               "item_name":"Vada",
+               "original_price":200,
+               "current_price":190,
+               "description":"Vada",
+               "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693304942Vada.jpg.webp"
+            },
+            {
+               "id":152,
+               "food_type":"veg",
+               "item_name":"Vada",
+               "original_price":200,
+               "current_price":190,
+               "description":"Vada",
+               "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693304942Vada.jpg.webp"
+            }
+         ]
+      }
+   }
+}
