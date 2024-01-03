@@ -1,12 +1,12 @@
 {
    "data":{
-      "is_active":false,
+      "is_active":true,
       "restaurant_data":{
          "info":{
             "id":244,
             "logo":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/restaurant-images/17017596461 rose.jpeg",
             "avg_serving_time":"15",
-            "is_live_order_enabled":false,
+            "is_live_order_enabled":true,
             "is_dine_in":false,
             "is_take_away":true,
             "header_description":"Default Header",
