@@ -31,38 +31,61 @@
          ],
          "category":[
             "Oilly Food",
-            "None Veg",
-            "test",
-            "Test 2"
+            "Brunch",
+            "Dinner",
+            "Break fast"
          ],
          "menu_items":[
             {
-               "id":152,
+               "id":151,
                "food_type":"veg",
                "item_name":"Vada",
-               "original_price":200,
-               "current_price":190,
+               "original_price":20,
+               "current_price":10,
                "description":"Vada",
-               "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693304942Vada.jpg.webp"
+               "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693304942Vada.jpg.webp",
+               "menu_category": ["Dinner", "Break fast"]
             },
             {
                "id":152,
-               "food_type":"veg",
-               "item_name":"Vada",
+               "food_type":"non-veg",
+               "item_name":"Butter Chicken",
                "original_price":200,
                "current_price":190,
                "description":"Vada",
-               "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693304942Vada.jpg.webp"
+               "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693304942Vada.jpg.webp",
+               "menu_category": ["Oilly Food", "Brunch", "Dinner", "Break fast"]
             },
-            {
-               "id":152,
+             {
+               "id":153,
                "food_type":"veg",
-               "item_name":"Vada",
+               "item_name":"Uttapam",
+               "original_price":150,
+               "current_price":90,
+               "description":"Vada",
+               "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693304942Vada.jpg.webp",
+               "menu_category": ["Oilly Food", "Break fast"]
+            },
+             {
+               "id":154,
+               "food_type":"non-veg",
+               "item_name":"Hydrabadi Biryani",
+               "original_price":250,
+               "current_price":210,
+               "description":"Vada",
+               "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693304942Vada.jpg.webp",
+               "menu_category": ["Oilly Food", "Brunch", "Dinner", "Break fast"]
+            },
+             {
+               "id":155,
+               "food_type":"veg",
+               "item_name":"Kachori",
                "original_price":200,
                "current_price":190,
                "description":"Vada",
-               "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693304942Vada.jpg.webp"
-            }
+               "image_url":"https://gsgepztxlvfztaabhouo.supabase.co/storage/v1/object/public/shared_image//1693304942Vada.jpg.webp",
+               "menu_category": ["Oilly Food", "Brunch"]
+            },
          ]
       }
    }
