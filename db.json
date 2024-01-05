@@ -9,6 +9,7 @@
             "is_live_order_enabled":true,
             "is_dine_in":false,
             "is_take_away":true,
+            "is_tax_included": true,
             "header_description":"Default Header",
             "restaurant_name":"Jagannath Veg Restaurant"
          },
